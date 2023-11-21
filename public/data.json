@@ -1,0 +1,37 @@
+{
+  "socialMedia": [
+    {
+      "name": "LinkedIn",
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/"
+    },
+    {
+      "name": "GitHub",
+      "icon": "FaGithub",
+      "url": "https://github.com/"
+    }
+  ],
+  "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"],
+  "projects": [
+    {
+      "title": "Projeto 1",
+      "description": "Descrição do Projeto 1",
+      "repoLink": "https://github.com/seu-usuario/projeto-1"
+    },
+    {
+      "title": "Projeto 2",
+      "description": "Descrição do Projeto 2",
+      "repoLink": "https://github.com/seu-usuario/projeto-2"
+    }
+  ],
+  "contactLinks": [
+    {
+      "text": "Email",
+      "url": "mailto:seuemail@example.com"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/"
+    }
+  ]
+}

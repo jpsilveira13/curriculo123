@@ -1,0 +1,48 @@
+// data.json
+{
+  "socialMedia": [
+    {
+      "name": "LinkedIn",
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/"
+    },
+    {
+      "name": "GitHub",
+      "icon": "FaGithub",
+      "url": "https://github.com/"
+    }
+    // Adicione mais redes sociais conforme necessário
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Node.js",
+    "HTML",
+    "CSS"
+    // Adicione mais habilidades conforme necessário
+  ],
+  "projects": [
+    {
+      "title": "Projeto 1",
+      "description": "Descrição do Projeto 1",
+      "repoLink": "https://github.com/seu-usuario/projeto-1"
+    },
+    {
+      "title": "Projeto 2",
+      "description": "Descrição do Projeto 2",
+      "repoLink": "https://github.com/seu-usuario/projeto-2"
+    }
+    // Adicione mais projetos conforme necessário
+  ],
+  "contactLinks": [
+    {
+      "text": "Email",
+      "url": "mailto:seuemail@example.com"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/"
+    }
+    // Adicione mais links de contato conforme necessário
+  ]
+}
